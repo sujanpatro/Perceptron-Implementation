@@ -133,3 +133,4 @@ dmypy.json
 
 # VSCode .vscode directory
 .vscode/
+/.idea/
